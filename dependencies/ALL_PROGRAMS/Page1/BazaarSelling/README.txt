@@ -1,0 +1,21 @@
+--> Please head to the bazaar, make sure the bazaar gui is NOT open 
+--> This will only work on 1 client
+--> This will sell all non-crown non-locked items:
+	- Hat
+	- Robe
+	- Boots
+	- Athame
+	- Amulet
+	- Ring
+	- Deck
+
+	- PlantLife
+	- WallHangings
+	- WallpaperCarpet
+	- Outdoor
+	- Furniture
+	- Decoration
+	- MusicScroll
+	- Seed
+Side Note
+	- It will always be faster selling manually, however most people using this program often find themselves with max backpack space

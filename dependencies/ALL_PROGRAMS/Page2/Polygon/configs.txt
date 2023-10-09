@@ -1,0 +1,5 @@
+Wooden_Chest = False
+player1_realm = Diego
+player2_realm = Helephant
+player3_realm = Lincoln
+player4_realm = Stormzilla
